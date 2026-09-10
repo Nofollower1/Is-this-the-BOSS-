@@ -10,3 +10,7 @@ This project is licensed under the MTL License. See the LICENSE file for the ful
 AI Usage Disclosure
 
 I provided the core concepts and design ideas for this mod. AI was used to generate the majority of the code. I reviewed and debugged the generated code, fixed bugs, and conducted extensive in-game testing. I am responsible for the final implementation and maintenance.
+
+Credits
+
+Thanks to Automods (https://automods.cn/hx/) for helping me create this mod.
