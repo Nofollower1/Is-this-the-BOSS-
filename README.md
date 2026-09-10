@@ -1,7 +1,7 @@
 Is This the BOSS?
 
 Source code repository for the Is This the BOSS? Minecraft mod.
-Player-facing documentation is available on CurseForge and Modrinth.
+Player-facing documentation is available on CurseForge.
 
 License
 
