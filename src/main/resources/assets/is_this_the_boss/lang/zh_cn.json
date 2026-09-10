@@ -1,0 +1,4 @@
+{
+  "effect.is_this_the_boss.boss_hatred": "首领仇恨",
+  "effect.is_this_the_boss.boss_hatred.description": "与BOSS战斗时被施加，用于判定所有玩家离开BOSS区域的情况；如果在配置中启用，任意玩家死亡时也会刷新BOSS。"
+}

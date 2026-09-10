@@ -1,0 +1,4 @@
+{
+  "effect.is_this_the_boss.boss_hatred": "Boss Aggro",
+  "effect.is_this_the_boss.boss_hatred.description": "Applied while fighting a BOSS. It is used to determine when all players leave the BOSS area, and optionally when any player dies if enabled in the configuration."
+}
