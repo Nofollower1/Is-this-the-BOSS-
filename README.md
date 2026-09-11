@@ -5,7 +5,7 @@ Player-facing documentation is available on CurseForge.
 
 License
 
-This project is licensed under the MTL License. See the LICENSE file for the full text.
+This project is licensed under the MIT License. See the LICENSE file for the full text.
 
 AI Usage Disclosure
 
